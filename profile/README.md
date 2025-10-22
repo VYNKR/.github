@@ -27,7 +27,6 @@ Our mission is simple:
 | ----------------------- | ---------------------- | --------------------------------------------------- |
 | 🧑‍💼 **Founder & CEO**    | **Saharsh Kumar**      | Product vision, full-stack development, strategy    |
 | 👩‍💼 **Co-Founder & COO** | **Chandra Hasa Reddy** | Operations, growth, and marketing                   |
-| 👨‍💻 **CTO**              | **Pranav Dubey**       | Technical architecture, backend, and infrastructure |
 
 ---
 
